@@ -22,6 +22,9 @@ Para iniciar o projeto, execute o seguinte comando:
 - [Server Cloner]
 - [Triger]
 
+## Preview
+<img src="https://cdn.victims.lol/uploads/image-1722894263004.png">
+
 ## Contribuição
 
 Se você deseja contribuir para o projeto, fique à vontade para abrir issues e pull requests. 
